@@ -1,0 +1,1 @@
+This is a read me for the phython exercises folder. this section of the course will be utilizing both VSC and Jupyter Notebook
